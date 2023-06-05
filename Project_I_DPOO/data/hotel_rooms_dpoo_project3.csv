@@ -1,0 +1,51 @@
+﻿num_de_habitacion;tipo_de_habitacion;num_camas;tipo_camas;balcon;cocina;vista;tamaño_en_m2;air_conditioner;calefaccion;tv;cafetera;secador;plancha;voltaje_ac;usb-a;usb-c;desayuno
+1;estándar;4;king;si;no;si;161;no;si;no;si;no;si;no;si;no;si
+2;suite;3;queen;no;si;si;211;si;si;si;no;si;si;no;si;no;no
+3;suite doble;2;individual;no;no;si;183;si;no;no;si;no;no;si;si;si;no
+4;estándar;3;doble;si;si;no;194;no;no;no;no;si;si;no;no;no;si
+5;suite;1;king;si;no;si;187;si;no;no;si;no;si;no;si;no;si
+6;suite doble;1;queen;no;si;si;207;si;si;si;no;si;si;si;si;si;no
+7;estándar;2;individual;no;no;si;210;no;si;si;si;no;no;no;si;no;no
+8;suite;3;doble;si;si;no;92;si;no;no;no;si;si;no;no;no;si
+9;suite doble;1;king;si;no;si;187;si;no;si;si;no;si;si;si;si;si
+10;estándar;2;queen;no;si;si;77;no;no;no;no;si;si;no;si;no;no
+11;suite;3;individual;no;no;si;92;si;si;si;si;no;no;no;si;no;no
+12;suite doble;4;doble;si;si;no;188;si;si;si;no;si;si;si;no;si;si
+13;estándar;1;king;si;no;si;199;no;no;no;si;no;si;no;si;no;si
+14;suite;2;queen;no;si;si;67;si;no;no;no;si;si;no;si;no;no
+15;suite doble;3;individual;no;no;si;62;si;no;no;si;no;no;si;si;si;no
+16;estándar;4;doble;si;si;no;216;no;si;si;no;si;si;no;no;no;si
+17;suite;4;king;si;no;si;95;si;si;si;si;no;si;no;si;no;si
+18;suite doble;3;queen;no;si;si;141;si;no;si;no;si;si;si;si;si;no
+19;estándar;2;individual;no;no;si;157;no;no;no;si;no;no;no;si;no;no
+20;suite;1;doble;si;si;no;88;si;no;no;no;si;si;no;no;no;si
+21;suite doble;2;king;si;no;si;129;si;si;si;si;no;si;si;si;si;si
+22;estándar;3;queen;no;si;si;87;no;si;si;no;si;si;no;si;no;no
+23;suite;4;individual;no;no;si;88;si;no;no;si;no;no;no;si;no;no
+24;suite doble;3;doble;si;si;no;147;si;no;no;no;si;si;si;no;si;si
+25;estándar;2;king;si;no;si;171;no;no;no;si;no;si;no;si;no;si
+26;suite;2;queen;no;si;si;201;si;si;si;no;si;si;no;si;no;no
+27;suite doble;2;individual;no;no;si;191;si;si;si;si;no;no;si;si;si;no
+28;estándar;4;doble;si;si;no;226;no;no;no;no;si;si;no;no;no;si
+29;suite;3;king;si;no;si;124;si;no;si;si;no;si;no;si;no;si
+30;suite doble;2;queen;no;si;si;86;si;no;no;no;si;si;si;si;si;no
+31;estándar;5;individual;no;no;si;69;no;si;si;si;no;no;no;si;no;no
+32;suite;3;doble;si;si;no;181;si;si;si;no;si;si;no;no;no;si
+33;suite doble;2;king;si;no;si;69;si;no;no;si;no;si;si;si;si;si
+34;estándar;4;queen;no;si;si;129;no;no;no;no;si;si;no;si;no;no
+35;suite;3;individual;no;no;si;82;si;no;no;si;no;no;no;si;no;no
+36;suite doble;4;doble;si;si;no;191;si;si;si;no;si;si;si;no;si;si
+37;estándar;5;king;si;no;si;106;no;si;si;si;no;si;no;si;no;si
+38;suite;2;queen;no;si;si;78;si;no;no;no;si;si;no;si;no;no
+39;suite doble;3;individual;no;no;si;192;si;si;no;si;no;no;si;si;si;no
+40;estándar;2;doble;si;si;no;150;no;no;no;no;si;si;no;no;no;si
+41;suite;2;king;si;no;si;219;si;si;si;si;no;si;no;si;no;si
+42;suite doble;1;queen;no;si;si;170;si;si;si;no;si;si;si;si;si;no
+43;estándar;2;individual;no;no;si;161;no;no;no;si;no;no;no;si;no;no
+44;suite;1;doble;si;si;no;160;si;no;no;no;si;si;no;no;no;si
+45;suite doble;1;king;si;no;si;142;si;no;no;si;no;si;si;si;si;si
+46;estándar;2;queen;no;si;si;179;no;si;si;no;si;si;no;si;no;no
+47;suite;3;individual;no;no;si;74;si;si;si;si;no;no;no;si;no;no
+48;suite doble;3;doble;si;si;no;217;si;no;no;no;si;si;si;no;si;si
+49;estándar;3;king;si;no;si;100;no;no;no;si;no;si;no;si;no;si
+50;suite;2;queen;no;si;si;154;si;no;no;no;si;si;no;si;no;no
